@@ -1,0 +1,6 @@
+# workshop folders
+.c9
+aws/
+
+# terraform cache
+.terraform/
